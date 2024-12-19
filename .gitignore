@@ -9,3 +9,5 @@ node_modules/
 /reports/
 /output/
 .idea/
+/blob-report/
+/playwright/.cache/
